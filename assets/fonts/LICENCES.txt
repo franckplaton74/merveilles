@@ -1,0 +1,26 @@
+CREATIO — polices auto-hébergées
+================================
+
+Aucune police n'est chargée depuis un service externe à l'exécution : ces fichiers
+sont servis par le site lui-même, ce qui garantit le fonctionnement hors ligne et
+l'absence de requête vers un tiers (règle R13 du projet).
+
+Toutes les polices ci-dessous sont distribuées sous SIL Open Font License 1.1
+(https://openfontlicense.org), qui autorise l'usage, la modification et la
+redistribution, y compris dans un site commercial, à condition que les fichiers
+ne soient pas vendus seuls et que les noms réservés soient respectés.
+
+Fichiers et titulaires
+----------------------
+cormorant-400.woff2          Cormorant Garamond — Christian Thalmann (Catharsis Fonts)
+cormorant-400-italic.woff2   Cormorant Garamond — Christian Thalmann (Catharsis Fonts)
+cormorant-600.woff2          Cormorant Garamond — Christian Thalmann (Catharsis Fonts)
+ebgaramond-400.woff2         EB Garamond — Georg Duffner, Octavio Pardo
+ebgaramond-400-italic.woff2  EB Garamond — Georg Duffner, Octavio Pardo
+inter-400.woff2              Inter — Rasmus Andersson
+inter-600.woff2              Inter — Rasmus Andersson
+jetbrains-400.woff2          JetBrains Mono — Philipp Nurullin, JetBrains
+
+Sous-ensemble : caractères latins de base (latin), avec les signes typographiques
+français nécessaires (guillemets, espaces insécables, accents, ligatures).
+Les fichiers ont été obtenus depuis les archives publiques de Google Fonts.
